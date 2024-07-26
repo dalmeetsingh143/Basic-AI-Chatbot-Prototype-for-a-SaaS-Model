@@ -1,0 +1,12 @@
+{
+    "greetings": ["hello", "hi", "hii", "hiii","hey"],
+    "farewells": ["goodbye", "by","bye", "see you"],
+    "faqs": {
+      "what is the return policy": "Our return policy allows you to return items within 30 days of purchase. After this time period you need to contact customer helpline ",
+      "i want to track my order": "You can track your order using the tracking number provided in the order confirmation email.",
+      "is international shipping offered": "Yes, we do offer international shipping to some selected countries.",
+      "i want to connect to customer support": "You can contact customer support via email - ai_chatbot@xyz.com or call our helpline number - 012-345-6789.",
+      "what payment methods are accepted": "We accept all major Credit & Debit cards, PayPal, and Bank transfers."
+    }
+  }
+  
